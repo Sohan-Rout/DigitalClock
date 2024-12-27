@@ -18,14 +18,14 @@ Libarary Used:
 - #include<unistd.h>
 
 Refrences:
-    https://en.cppreference.com/w/cpp/chrono/c/strftime
+https://en.cppreference.com/w/cpp/chrono/c/strftime
 
 How to run:
 1. Complie the program:
-    gcc digitalClock.c -o digitalClock
-2. Run the program:
-    ./digitalClock
-3. Choose the format you want to use.
+2.     gcc digitalClock.c -o digitalClock
+3. Run the program:
+4.     ./digitalClock
+5. Choose the format you want to use.
 
 Requirements:
 1. C compiler
@@ -39,6 +39,7 @@ Code Explanation:
 5. main(): Continuously displays the current time and date based on user choice.
 
 Demo:
+
     --------------------Digital Clock-------------------------
     Choose the time format you want to see:
     1. 12-hour format
